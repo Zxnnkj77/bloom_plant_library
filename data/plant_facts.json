@@ -3945,5 +3945,475 @@
       "source_type": "curated_catalog_record",
       "match_type": "exact_common_name_and_scientific_name"
     }
+  },
+  {
+    "id": "cebu_blue_pothos",
+    "common_name": "Cebu Blue Pothos",
+    "scientific_name": "Epipremnum pinnatum",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "mini_monstera",
+    "common_name": "Mini Monstera",
+    "scientific_name": "Rhaphidophora tetrasperma",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "silver_monstera",
+    "common_name": "Silver Monstera",
+    "scientific_name": "Monstera siltepecana",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "geranium_aralia",
+    "common_name": "Geranium Aralia",
+    "scientific_name": "Polyscias guilfoylei",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "false_aralia",
+    "common_name": "False Aralia",
+    "scientific_name": "Plerandra elegantissima",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "english_ivy",
+    "common_name": "English Ivy",
+    "scientific_name": "Hedera helix",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "japanese_aucuba",
+    "common_name": "Japanese Aucuba",
+    "scientific_name": "Aucuba japonica",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "yew_pine",
+    "common_name": "Yew Pine",
+    "scientific_name": "Podocarpus macrophyllus",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "peacock_moss",
+    "common_name": "Peacock Moss",
+    "scientific_name": "Selaginella uncinata",
+    "legacy_category": "fern",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "constantly_moist",
+    "controller_family": "fern_high_moisture",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "sedum_makinoi",
+    "common_name": "Sedum Makinoi",
+    "scientific_name": "Sedum makinoi",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "carpet_sedum",
+    "common_name": "Carpet Sedum",
+    "scientific_name": "Sedum lineare",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "october_daphne_stonecrop",
+    "common_name": "October Daphne Stonecrop",
+    "scientific_name": "Hylotelephium sieboldii",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "thimble_cactus",
+    "common_name": "Thimble Cactus",
+    "scientific_name": "Mammillaria vetula",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "moon_cactus",
+    "common_name": "Moon Cactus",
+    "scientific_name": "Gymnocalycium mihanovichii",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "thanksgiving_cactus",
+    "common_name": "Thanksgiving Cactus",
+    "scientific_name": "Schlumbergera truncata",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "peppermint",
+    "common_name": "Peppermint",
+    "scientific_name": "Mentha x piperita",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "lemon_thyme",
+    "common_name": "Lemon Thyme",
+    "scientific_name": "Thymus x citriodorus",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "creeping_thyme",
+    "common_name": "Creeping Thyme",
+    "scientific_name": "Thymus serpyllum",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "fennel",
+    "common_name": "Fennel",
+    "scientific_name": "Foeniculum vulgare",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "chervil",
+    "common_name": "Chervil",
+    "scientific_name": "Anthriscus cerefolium",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "roman_chamomile",
+    "common_name": "Roman Chamomile",
+    "scientific_name": "Chamaemelum nobile",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "lettuce",
+    "common_name": "Lettuce",
+    "scientific_name": "Lactuca sativa",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "mustard_greens",
+    "common_name": "Mustard Greens",
+    "scientific_name": "Brassica juncea",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "radish",
+    "common_name": "Radish",
+    "scientific_name": "Raphanus raphanistrum subsp. sativus",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "garlic_chives",
+    "common_name": "Garlic Chives",
+    "scientific_name": "Allium tuberosum",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-26-batch-003-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
   }
 ]
