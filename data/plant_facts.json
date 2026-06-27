@@ -7395,5 +7395,926 @@
       "source_type": "curated_catalog_record",
       "match_type": "exact_common_name_and_scientific_name"
     }
+  },
+  {
+    "id": "celery_cabbage",
+    "common_name": "Celery Cabbage",
+    "scientific_name": "Brassica rapa Pekinensis Group",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "chinese_broccoli",
+    "common_name": "Chinese Broccoli",
+    "scientific_name": "Brassica oleracea Kai Lan & Chinese Kale Group",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "curled_kitchen_kale",
+    "common_name": "Curled Kitchen Kale",
+    "scientific_name": "Brassica napus Pabularia Group",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "curly_kale",
+    "common_name": "Curly Kale",
+    "scientific_name": "Brassica oleracea Kale Group",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "cushaw_squash",
+    "common_name": "Cushaw Squash",
+    "scientific_name": "Cucurbita argyrosperma",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "dinosaur_kale",
+    "common_name": "Dinosaur Kale",
+    "scientific_name": "Brassica oleracea Lacinato Kale Group",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "flat_cabbage",
+    "common_name": "Flat Cabbage",
+    "scientific_name": "Brassica rapa var. rosularis",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "flowering_cabbage",
+    "common_name": "Flowering Cabbage",
+    "scientific_name": "Brassica oleracea Ornamental Kale Group",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "german_turnip",
+    "common_name": "German Turnip",
+    "scientific_name": "Brassica oleracea Kohlrabi Group",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "turnips",
+    "common_name": "Turnips",
+    "scientific_name": "Brassica rapa Rapifera Group",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "ara_banyan",
+    "common_name": "Ara Banyan",
+    "scientific_name": "Ficus benghalensis",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "basket_vine",
+    "common_name": "Basket Vine",
+    "scientific_name": "Aeschynanthus humilis",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "beautiful_hoya",
+    "common_name": "Beautiful Hoya",
+    "scientific_name": "Hoya bella",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": null,
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "cape_primrose",
+    "common_name": "Cape Primrose",
+    "scientific_name": "Streptocarpus saxorum",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "common_hoya",
+    "common_name": "Common Hoya",
+    "scientific_name": "Hoya australis",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "cupid_peperomia",
+    "common_name": "Cupid Peperomia",
+    "scientific_name": "Peperomia serpens",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "delta_fig",
+    "common_name": "Delta Fig",
+    "scientific_name": "Ficus deltoidea",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "fung_wax_flower",
+    "common_name": "Fung Wax Flower",
+    "scientific_name": "Hoya curtisii",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "watermelon_dischidia",
+    "common_name": "Watermelon Dischidia",
+    "scientific_name": "Dischidia ovata",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "bold_sword_fern",
+    "common_name": "Bold Sword Fern",
+    "scientific_name": "Nephrolepis biserrata",
+    "legacy_category": "fern",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": null,
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "heart_fern",
+    "common_name": "Heart Fern",
+    "scientific_name": "Hemionitis arifolia",
+    "legacy_category": "fern",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "kangaroo_fern",
+    "common_name": "Kangaroo Fern",
+    "scientific_name": "Lecanopteris pustulata subp. pustulata",
+    "legacy_category": "fern",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "maple_leaf_begonia",
+    "common_name": "Maple Leaf Begonia",
+    "scientific_name": "Begonia cleopatrae",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "mound_lily_yucca",
+    "common_name": "Mound Lily Yucca",
+    "scientific_name": "Yucca gloriosa",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "african_rosemallow",
+    "common_name": "African Rosemallow",
+    "scientific_name": "Hibiscus acetosella",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "aralia_balfour",
+    "common_name": "Aralia Balfour",
+    "scientific_name": "Polyscias balfouriana",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "biberi_pepper",
+    "common_name": "Biberi Pepper",
+    "scientific_name": "Capsicum annuum Conioides Group",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "blue_dracaena",
+    "common_name": "Blue Dracaena",
+    "scientific_name": "Cordyline indivisa",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "cape_jasmine",
+    "common_name": "Cape Jasmine",
+    "scientific_name": "Gardenia jasminoides 'Jubilation'",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "cape_jasmine_kleims_hardy",
+    "common_name": "Cape Jasmine 'Kleim's Hardy'",
+    "scientific_name": "Gardenia jasminoides 'Kleim's Hardy'",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "cayenne_pepper",
+    "common_name": "Cayenne pepper",
+    "scientific_name": "Capsicum annuum Longum Group",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "dinner_plate_hibiscus",
+    "common_name": "Dinner Plate Hibiscus",
+    "scientific_name": "Hibiscus hybrid",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "dwarf_date_palm",
+    "common_name": "Dwarf Date Palm",
+    "scientific_name": "Phoenix acaulis",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "giant_bird_of_paradise",
+    "common_name": "Giant Bird of Paradise",
+    "scientific_name": "Strelitzia nicolai",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "gold_dust",
+    "common_name": "Gold Dust",
+    "scientific_name": "Aucuba japonica 'Variegata'",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "greek_cyclamen",
+    "common_name": "Greek Cyclamen",
+    "scientific_name": "Cyclamen graecum",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "hamabo_hibiscus",
+    "common_name": "Hamabo Hibiscus",
+    "scientific_name": "Hibiscus hamabo",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "heart_leafed_hibiscus",
+    "common_name": "Heart-Leafed Hibiscus",
+    "scientific_name": "Hibiscus martianus",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "irish_potato",
+    "common_name": "Irish Potato",
+    "scientific_name": "Solanum tuberosum",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "parsley_aralia",
+    "common_name": "Parsley Aralia",
+    "scientific_name": "Polyscias fruticosa 'Elegans'",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "primrose",
+    "common_name": "Primrose",
+    "scientific_name": "Primula vulgaris",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "spotted_laurel",
+    "common_name": "Spotted Laurel",
+    "scientific_name": "Aucuba japonica 'Dwarf Green'",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "tomato",
+    "common_name": "Tomato",
+    "scientific_name": "Solanum lycopersicum",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "amazonian_zebra_plant",
+    "common_name": "Amazonian Zebra Plant",
+    "scientific_name": "Aechmea chantinii",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": null,
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "anthurium",
+    "common_name": "Anthurium",
+    "scientific_name": "Anthurium andraeanum",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "mosaic_vase",
+    "common_name": "Mosaic Vase",
+    "scientific_name": "Guzmania musaica",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": null,
+    "controller_family": "orchid_bark",
+    "controller_family_confidence": "manual_review",
+    "migration_status": "accepted_manual",
+    "special_handling": [
+      "manual_review_required"
+    ],
+    "manual_review_reasons": [
+      "epiphytic_growth_not_supported",
+      "substrate_specific_autowatering_not_validated"
+    ],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "annual_sweet_pea",
+    "common_name": "Annual Sweet Pea",
+    "scientific_name": "Lathyrus odoratus",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-008-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
   }
 ]
