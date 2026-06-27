@@ -6549,5 +6549,851 @@
       "source_type": "curated_catalog_record",
       "match_type": "exact_common_name_and_scientific_name"
     }
+  },
+  {
+    "id": "baby_sage",
+    "common_name": "Baby Sage",
+    "scientific_name": "Salvia microphylla",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "bald_head_onion",
+    "common_name": "Bald-Head Onion",
+    "scientific_name": "Allium sphaerocephalon",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "balkan_clary",
+    "common_name": "Balkan Clary",
+    "scientific_name": "Salvia nemorosa",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "blue_globe_onion",
+    "common_name": "Blue Globe Onion",
+    "scientific_name": "Allium caeruleum",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "blue_sage",
+    "common_name": "Blue Sage",
+    "scientific_name": "Salvia azurea",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "blue_spike_sage",
+    "common_name": "Blue Spike Sage",
+    "scientific_name": "Salvia uliginosa",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "broad_leaved_thyme",
+    "common_name": "Broad-Leaved Thyme",
+    "scientific_name": "Thymus pulegioides",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "caraway_thyme",
+    "common_name": "Caraway Thyme",
+    "scientific_name": "Thymus herba-barona",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "cedar_sage",
+    "common_name": "Cedar Sage",
+    "scientific_name": "Salvia roemeriana",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "clary_sage",
+    "common_name": "Clary Sage",
+    "scientific_name": "Salvia sclarea",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "clove_of_garlic",
+    "common_name": "Clove of Garlic",
+    "scientific_name": "Allium sativum",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "crow_garlic",
+    "common_name": "Crow Garlic",
+    "scientific_name": "Allium vineale",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "cuthberts_onion",
+    "common_name": "Cuthbert's Onion",
+    "scientific_name": "Allium cuthbertii",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "dutch_garlic",
+    "common_name": "Dutch Garlic",
+    "scientific_name": "Allium hollandicum",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "elfin_thyme",
+    "common_name": "Elfin Thyme",
+    "scientific_name": "Thymus serpyllum 'Elfin'",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "forsythia_sage",
+    "common_name": "Forsythia Sage",
+    "scientific_name": "Salvia madrensis",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "garlic_onion",
+    "common_name": "Garlic Onion",
+    "scientific_name": "Allium moly",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "green_onion",
+    "common_name": "Green onion",
+    "scientific_name": "Allium cepa",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "hard_neck_garlic",
+    "common_name": "Hard Neck Garlic",
+    "scientific_name": "Allium sativum var. ophioscorodon",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "hybrid_lavender",
+    "common_name": "Hybrid Lavender",
+    "scientific_name": "Lavandula x intermedia",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "indigo_spires_sage",
+    "common_name": "Indigo Spires Sage",
+    "scientific_name": "Salvia 'Indigo Spires'",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "juniper_thyme",
+    "common_name": "Juniper Thyme",
+    "scientific_name": "Thymus leucotrichus",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "lavandin",
+    "common_name": "Lavandin",
+    "scientific_name": "Lavandula x intermedia 'Provence'",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "lyreleaf_sage",
+    "common_name": "Lyreleaf Sage",
+    "scientific_name": "Salvia lyrata",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "meadow_garlic",
+    "common_name": "Meadow Garlic",
+    "scientific_name": "Allium canadense",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "meadow_sage",
+    "common_name": "Meadow Sage",
+    "scientific_name": "Salvia x sylvestris",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "mexican_bush_sage",
+    "common_name": "Mexican Bush Sage",
+    "scientific_name": "Salvia leucantha",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "nettleleaf_sage",
+    "common_name": "Nettleleaf Sage",
+    "scientific_name": "Salvia urticifolia",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "ornamental_onion",
+    "common_name": "Ornamental Onion",
+    "scientific_name": "Allium oreophilum",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "ornamental_oregano",
+    "common_name": "Ornamental Oregano",
+    "scientific_name": "Origanum laevigatum",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "pineapple_sage",
+    "common_name": "Pineapple Sage",
+    "scientific_name": "Salvia elegans",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "ramps",
+    "common_name": "Ramps",
+    "scientific_name": "Allium tricoccum",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "russian_sage",
+    "common_name": "Russian Sage",
+    "scientific_name": "Salvia yangii",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "soft_neck_garlic",
+    "common_name": "Soft Neck Garlic",
+    "scientific_name": "Allium sativum var. sativum",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "wooly_thyme",
+    "common_name": "Wooly Thyme",
+    "scientific_name": "Thymus pseudolanuginosus",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "alcayota",
+    "common_name": "Alcayota",
+    "scientific_name": "Cucurbita ficifolia",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "american_gai_lan",
+    "common_name": "American Gai Lan",
+    "scientific_name": "Brassica rapa Ruvo Group",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "arabian_cucumber",
+    "common_name": "Arabian Cucumber",
+    "scientific_name": "Cucumis dipsaceus",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "armenian_cucumber",
+    "common_name": "Armenian Cucumber",
+    "scientific_name": "Cucumis melo",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "autumn_squash",
+    "common_name": "Autumn Squash",
+    "scientific_name": "Cucurbita maxima",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "black_mustard",
+    "common_name": "Black Mustard",
+    "scientific_name": "Brassica nigra",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "bok_choy",
+    "common_name": "Bok Choy",
+    "scientific_name": "Brassica rapa Chinensis Group",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "broccli_rabe",
+    "common_name": "Broccli Rabe",
+    "scientific_name": "Brassica oleracea Cauliflower & Broccoli Group",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "brussels_sprouts",
+    "common_name": "Brussels Sprouts",
+    "scientific_name": "Brassica oleracea Brussels Sprouts Group",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "bur_gourd",
+    "common_name": "Bur Gourd",
+    "scientific_name": "Cucumis anguria",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "butternut_squash",
+    "common_name": "Butternut Squash",
+    "scientific_name": "Cucurbita moschata",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "cabbage",
+    "common_name": "Cabbage",
+    "scientific_name": "Brassica oleracea Cabbage Group",
+    "legacy_category": "edible",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-007-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
   }
 ]
