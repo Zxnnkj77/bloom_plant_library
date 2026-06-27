@@ -5703,5 +5703,851 @@
       "source_type": "curated_catalog_record",
       "match_type": "exact_common_name_and_scientific_name"
     }
+  },
+  {
+    "id": "stromanthe",
+    "common_name": "Stromanthe",
+    "scientific_name": "Stromanthe thalia",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "thai_beauty",
+    "common_name": "Thai Beauty",
+    "scientific_name": "Goeppertia louisae",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "watermelon_begonia",
+    "common_name": "Watermelon Begonia",
+    "scientific_name": "Peperomia argyraea",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "willow_leaf_fig",
+    "common_name": "Willow Leaf Fig",
+    "scientific_name": "Ficus neriifolia",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "winterbourn_philodendron",
+    "common_name": "Winterbourn Philodendron",
+    "scientific_name": "Philodendron xanadu",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "african_milk_barrel",
+    "common_name": "African Milk Barrel",
+    "scientific_name": "Euphorbia polygona 'Nova'",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "african_spurge",
+    "common_name": "African Spurge",
+    "scientific_name": "Euphorbia resinifera",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "bigroot_prickly_pear",
+    "common_name": "Bigroot Prickly Pear",
+    "scientific_name": "Opuntia macrorhiza",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "birthday_party_sedum",
+    "common_name": "Birthday Party Sedum",
+    "scientific_name": "Sedum 'Birthday Party'",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "blue_echeveria",
+    "common_name": "Blue Echeveria",
+    "scientific_name": "Echeveria derenbergii",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "blue_spurge",
+    "common_name": "Blue Spurge",
+    "scientific_name": "Euphorbia myrsinites",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "brown_spine_prickly_pear_cactus",
+    "common_name": "Brown-spine Prickly Pear Cactus",
+    "scientific_name": "Opuntia phaeacantha",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "caribbean_cooper_plant",
+    "common_name": "Caribbean Cooper Plant",
+    "scientific_name": "Euphorbia cotinifolia",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "catalina",
+    "common_name": "Catalina",
+    "scientific_name": "Euphorbia cyathophora",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "chandelier_plant",
+    "common_name": "Chandelier Plant",
+    "scientific_name": "Kalanchoe delagoensis",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "chinese_jade",
+    "common_name": "Chinese Jade",
+    "scientific_name": "Crassula arborescens",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "chinese_sedum",
+    "common_name": "Chinese Sedum",
+    "scientific_name": "Sedum tetractinum",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "cockspur_prickly_pear",
+    "common_name": "Cockspur Prickly-Pear",
+    "scientific_name": "Opuntia drummondii",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "copper_rose",
+    "common_name": "Copper Rose",
+    "scientific_name": "Echeveria multicaulis",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "crested_eves_needle",
+    "common_name": "Crested Eve's Needle",
+    "scientific_name": "Austrocylindropuntia subulata 'Cristata'",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "crooked_yellow_stonecrop",
+    "common_name": "Crooked Yellow Stonecrop",
+    "scientific_name": "Petrosedum rupestre 'Angelina'",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "cushion_euphorbia",
+    "common_name": "Cushion Euphorbia",
+    "scientific_name": "Euphorbia epithymoides",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "devils_backbone",
+    "common_name": "Devil's Backbone",
+    "scientific_name": "Euphorbia tithymaloides",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "devils_tongue",
+    "common_name": "Devil's Tongue",
+    "scientific_name": "Opuntia humifusa",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "eves_needle",
+    "common_name": "Eve's Needle",
+    "scientific_name": "Austrocylindropuntia subulata",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "gopher_spurge",
+    "common_name": "Gopher Spurge",
+    "scientific_name": "Euphorbia rigida",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "hardy_baby_tears",
+    "common_name": "Hardy Baby Tears",
+    "scientific_name": "Sedum album",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "lemon_coral_stonecrop",
+    "common_name": "Lemon Coral Stonecrop",
+    "scientific_name": "Sedum mexicanum 'Lemon Coral'",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "little_zebra_plant",
+    "common_name": "Little Zebra Plant",
+    "scientific_name": "Haworthiopsis fasciata",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "mountain_stonecrop",
+    "common_name": "Mountain Stonecrop",
+    "scientific_name": "Sedum ternatum",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "mrs_robbs_bonnet",
+    "common_name": "Mrs. Robb's Bonnet",
+    "scientific_name": "Euphorbia amygdaloides subsp. robbiae",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "ripple_jade",
+    "common_name": "Ripple Jade",
+    "scientific_name": "Crassula arborescens ssp. undulatifolia",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "sedum",
+    "common_name": "Sedum",
+    "scientific_name": "Sedum 'Touchdown Teak'",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "southeastern_prickly_pear_cactus",
+    "common_name": "Southeastern Prickly-pear Cactus",
+    "scientific_name": "Opuntia mesacantha",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "variegated_jade_plant",
+    "common_name": "Variegated Jade Plant",
+    "scientific_name": "Crassula ovata 'Variegata'",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "australian_cliffbrake",
+    "common_name": "Australian Cliffbrake",
+    "scientific_name": "Hemionitis seticaulis",
+    "legacy_category": "fern",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "fern_high_moisture",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "biting_stonecrop",
+    "common_name": "Biting Stonecrop",
+    "scientific_name": "Sedum acre",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "black_stick_maidenhair",
+    "common_name": "Black-Stick Maidenhair",
+    "scientific_name": "Adiantum tenerum",
+    "legacy_category": "fern",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "fern_high_moisture",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "bonapartes_crown",
+    "common_name": "Bonaparte's Crown",
+    "scientific_name": "Euphorbia cyparissias",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "bush_maidenhair_fern",
+    "common_name": "Bush Maidenhair Fern",
+    "scientific_name": "Adiantum aethiopicum",
+    "legacy_category": "fern",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "fern_high_moisture",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "gold_moss",
+    "common_name": "Gold Moss",
+    "scientific_name": "Sedum sarmentosum",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "african_blue_basil",
+    "common_name": "African Blue Basil",
+    "scientific_name": "Ocimum kilimandscharicum x basilicum",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "allegheny_onion",
+    "common_name": "Allegheny Onion",
+    "scientific_name": "Allium cernuum",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "amistad_sage",
+    "common_name": "Amistad Sage",
+    "scientific_name": "Salvia 'Amistad'",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "anise_sage",
+    "common_name": "Anise Sage",
+    "scientific_name": "Salvia guaranitica",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "arrowleaf_sage",
+    "common_name": "Arrowleaf Sage",
+    "scientific_name": "Salvia sagittata",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "autumn_sage",
+    "common_name": "Autumn Sage",
+    "scientific_name": "Salvia greggii",
+    "legacy_category": "herb",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-006-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
   }
 ]
