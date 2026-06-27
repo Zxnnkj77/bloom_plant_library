@@ -4857,5 +4857,851 @@
       "source_type": "curated_catalog_record",
       "match_type": "exact_common_name_and_scientific_name"
     }
+  },
+  {
+    "id": "adams_yucca",
+    "common_name": "Adam's Yucca",
+    "scientific_name": "Yucca rostrata",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "african_mask",
+    "common_name": "African Mask",
+    "scientific_name": "Alocasia x mortfontanensis",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "african_spear",
+    "common_name": "African Spear",
+    "scientific_name": "Dracaena angolensis",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "airplane_plant",
+    "common_name": "Airplane Plant",
+    "scientific_name": "Chlorophytum comosum 'Variegatum'",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "alberta_prayer_plant",
+    "common_name": "Alberta Prayer Plant",
+    "scientific_name": "Goeppertia albertii",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "bat_faced_cuphea",
+    "common_name": "Bat-faced Cuphea",
+    "scientific_name": "Cuphea llavea",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "beesianum_jasmine",
+    "common_name": "Beesianum Jasmine",
+    "scientific_name": "Jasminum beesianum",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "bichetii_grass",
+    "common_name": "Bichetii Grass",
+    "scientific_name": "Chlorophytum laxum",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "brain_plant",
+    "common_name": "Brain Plant",
+    "scientific_name": "Goeppertia makoyana",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "cabbage_palm",
+    "common_name": "Cabbage Palm",
+    "scientific_name": "Cordyline australis",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "caeroba",
+    "common_name": "Caeroba",
+    "scientific_name": "Calathea crotalifera",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "calathea_medallion",
+    "common_name": "Calathea Medallion",
+    "scientific_name": "Goeppertia veitchiana",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "calidora_elephant_ear",
+    "common_name": "Calidora Elephant Ear",
+    "scientific_name": "Alocasia 'Calidora'",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "celeste_fig",
+    "common_name": "Celeste Fig",
+    "scientific_name": "Ficus carica 'Celeste'",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "christmas_fig",
+    "common_name": "Christmas Fig",
+    "scientific_name": "Ficus bhotanica",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "cobweb_spiderwort",
+    "common_name": "Cobweb Spiderwort",
+    "scientific_name": "Tradescantia sillamontana",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "common_jasmine",
+    "common_name": "Common Jasmine",
+    "scientific_name": "Jasminum officinale",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "curved_leaved_spanish_dagger",
+    "common_name": "Curved-Leaved Spanish-Dagger",
+    "scientific_name": "Yucca gloriosa var. tristis",
+    "legacy_category": "succulent",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "drought_tolerant",
+    "controller_family": "succulent_fast_drain",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "dieffenbachia",
+    "common_name": "Dieffenbachia",
+    "scientific_name": "Dieffenbachia seguine",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "dracaena",
+    "common_name": "Dracaena",
+    "scientific_name": "Dracaena reflexa var. angustifolia",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "elephant_ear",
+    "common_name": "Elephant Ear",
+    "scientific_name": "Alocasia sarawakensis 'Yucatan Princess'",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "elephant_ear_begonia",
+    "common_name": "Elephant-Ear Begonia",
+    "scientific_name": "Begonia scharffiana",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "eternal_flame_plant",
+    "common_name": "Eternal Flame Plant",
+    "scientific_name": "Goeppertia crocata",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "fire_flash",
+    "common_name": "Fire Flash",
+    "scientific_name": "Chlorophytum orchidastrum",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "furry_feather_calathea",
+    "common_name": "Furry Feather Calathea",
+    "scientific_name": "Goeppertia rufibarba",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "geranium",
+    "common_name": "Geranium",
+    "scientific_name": "Pelargonium x hybridum",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "great_yellow_wood_sorrel",
+    "common_name": "Great Yellow Wood-sorrel",
+    "scientific_name": "Oxalis grandis",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "inch_plant",
+    "common_name": "Inch Plant",
+    "scientific_name": "Tradescantia fluminensis",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "javanese_ixora",
+    "common_name": "Javanese Ixora",
+    "scientific_name": "Ixora javanica",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "jungle_rose",
+    "common_name": "Jungle Rose",
+    "scientific_name": "Goeppertia roseopicta",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "jungle_velvet_calathea",
+    "common_name": "Jungle Velvet Calathea",
+    "scientific_name": "Goeppertia warszewiczii",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "madascar_jasmine",
+    "common_name": "Madascar Jasmine",
+    "scientific_name": "Jasminum x stephanense",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "magnolia_fig",
+    "common_name": "Magnolia Fig",
+    "scientific_name": "Ficus carica 'Magnolia'",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "majestic_prayer_plant",
+    "common_name": "Majestic Prayer Plant",
+    "scientific_name": "Goeppertia majestica",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "marseille_fig",
+    "common_name": "Marseille Fig",
+    "scientific_name": "Ficus carica 'Marseille'",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "masons_congo_snake_plant",
+    "common_name": "Mason's Congo Snake Plant",
+    "scientific_name": "Dracaena masoniana",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "metallic_leaf_begonia",
+    "common_name": "Metallic Leaf Begonia",
+    "scientific_name": "Begonia incarnata",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "dry_between",
+    "controller_family": "soil_dry_between",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "miniature_calathea",
+    "common_name": "Miniature Calathea",
+    "scientific_name": "Goeppertia micans",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "mosaic_calathea",
+    "common_name": "Mosaic Calathea",
+    "scientific_name": "Goeppertia kegeljanii",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "never_never_plant",
+    "common_name": "Never Never Plant",
+    "scientific_name": "Ctenanthe amabilis",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "oxalis",
+    "common_name": "Oxalis",
+    "scientific_name": "Oxalis articulata",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "palm_lily",
+    "common_name": "Palm Lily",
+    "scientific_name": "Cordyline rubra",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "pinstripe_calathea",
+    "common_name": "Pinstripe Calathea",
+    "scientific_name": "Goeppertia ornata",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "purple_waffle_plant",
+    "common_name": "Purple Waffle Plant",
+    "scientific_name": "Strobilanthes alternata 'Exotica'",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "raindrop",
+    "common_name": "Raindrop",
+    "scientific_name": "Peperomia polybotrya",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "silver_sword_philodendron",
+    "common_name": "Silver Sword Philodendron",
+    "scientific_name": "Philodendron hastatum",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
+  },
+  {
+    "id": "spiderwort",
+    "common_name": "Spiderwort",
+    "scientific_name": "Tradescantia x andersoniana",
+    "legacy_category": "tropical",
+    "legacy_light_preference_lux": null,
+    "legacy_water_preference": "evenly_moist",
+    "controller_family": "soil_even_moist",
+    "controller_family_confidence": "curated_horticultural",
+    "migration_status": "accepted_auto",
+    "special_handling": [],
+    "manual_review_reasons": [],
+    "provenance": {
+      "source_file": "specs/batches/2026-06-27-batch-005-sources.md",
+      "source_type": "curated_catalog_record",
+      "match_type": "exact_common_name_and_scientific_name"
+    }
   }
 ]
